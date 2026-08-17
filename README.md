@@ -55,4 +55,4 @@ If you want to run this project on your own computer:
 ### 1. Download the Code
 Clone this repository or click **Code $\rightarrow$ Download ZIP** on GitHub:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/raincheck.git](https://github.com/nategana/raincheck.git)
+git clone [https://github.com/NateGana/raincheck.git](https://github.com/NateGana/raincheck.git)
