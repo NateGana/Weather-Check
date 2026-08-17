@@ -48,11 +48,5 @@ Using RainCheck is super easy! Here is how to get started:
 
 ---
 
-## 🚀 How to Run It Yourself
-
-If you want to run this project on your own computer:
-
-### 1. Download the Code
-Clone this repository or click **Code $\rightarrow$ Download ZIP** on GitHub:
-```bash
-git clone [https://github.com/NateGana/raincheck.git](https://github.com/NateGana/raincheck.git)
+To view live link:
+https://nategana.github.io/Weather-Check/
